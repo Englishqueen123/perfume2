@@ -1,0 +1,56 @@
+body {
+  background-color: rgb(226, 135, 208);
+  font-family: Times;
+  margin: 0;
+}
+
+.header {
+  background: red;
+  color: rgb(1, 1, 14);
+  text-align: left;
+  padding: 5px;
+}
+
+.nav {
+  background: green;
+  padding: 10px;
+}
+
+.nav a {
+  color: rgb(238, 145, 201);
+  margin-right: 5px;
+  text-decoration: underline;
+}
+
+.text {
+  background: pink;
+  color: black;
+  padding: 2px;
+  margin: 0;
+}
+
+.box {
+  background: rgb(185, 37, 155);
+  margin-top: 20px;
+}
+
+.card {
+  background: purple;
+  color: white;
+  margin: 2px;
+  padding: 2px;
+}
+
+button {
+  background: black;
+  color: white;
+  margin: 0;
+  border: none;
+}
+
+.footer {
+  background: gray;
+  color: black;
+  font-size: 10px;
+  text-align: right;
+}
